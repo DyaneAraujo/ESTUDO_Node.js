@@ -44,3 +44,7 @@ node server.js
 * Installar a bibliote Nodemon para fazer live reload
 
 npm install nodemon@2.0.15 -D
+
+* Para rodar algum script, para rodar o nodemon
+
+npm run dev
