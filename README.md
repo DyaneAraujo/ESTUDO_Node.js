@@ -36,3 +36,7 @@ alura-node/package.json:
 * Comando para abrir o VSCode
 
 code .
+
+* No VSCode via terminal, rodar o servidor 
+
+node server.js
