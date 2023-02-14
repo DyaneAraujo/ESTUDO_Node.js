@@ -48,3 +48,7 @@ npm install nodemon@2.0.15 -D
 * Para rodar algum script, para rodar o nodemon
 
 npm run dev
+
+* Para install lib global 
+
+npm install -g <nome do pacote>
