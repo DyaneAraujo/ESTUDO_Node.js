@@ -40,3 +40,7 @@ code .
 * No VSCode via terminal, rodar o servidor 
 
 node server.js
+
+* Installar a bibliote Nodemon para fazer live reload
+
+npm install nodemon@2.0.15 -D
