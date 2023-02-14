@@ -52,3 +52,7 @@ npm run dev
 * Para install lib global 
 
 npm install -g <nome do pacote>
+  
+* Para mais comandos do NPM
+
+npm help <nome do comando>
