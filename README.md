@@ -56,3 +56,7 @@ npm install -g <nome do pacote>
 * Para mais comandos do NPM
 
 npm help <nome do comando>
+
+* Para instalar o express.js
+
+npm install express@4.17.3
