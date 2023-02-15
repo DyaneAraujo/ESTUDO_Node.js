@@ -60,3 +60,14 @@ npm help <nome do comando>
 * Para instalar o express.js
 
 npm install express@4.17.3
+  
+* Para instalar o esqueleto de aplicações express no prompt
+
+npm install express-generator -g
+  
+* Depois vá até o local/pasta onde você deseja desenvolver o projeto
+
+express <nome do projeto a ser criado>
+cd <nome do projeto>
+npm install
+npm start
