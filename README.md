@@ -71,3 +71,7 @@ express <nome do projeto a ser criado>
 cd <nome do projeto>
 npm install
 npm start
+  
+[Node.js_ MongoDB Atlas, Shell, Compass ou Robo 3T.pdf](https://github.com/MulherMarav/ESTUDO_Node.js/files/10766801/Node.js_.MongoDB.Atlas.Shell.Compass.ou.Robo.3T.pdf)
+
+  
